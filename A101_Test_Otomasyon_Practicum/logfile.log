@@ -1,0 +1,5 @@
+2022-09-24 18:18:26,472 INFO  [Log] accept_cookies() PASSED 
+2022-09-24 18:18:29,694 INFO  [Log] selectProduct() PASSED 
+2022-09-24 18:18:32,167 INFO  [Log] basketPage() PASSED 
+2022-09-24 18:18:39,082 INFO  [Log] adressPage() PASSED 
+2022-09-24 18:18:40,102 INFO  [Log] checkpayment() PASSED 
